@@ -1,0 +1,171 @@
+E:\private\Task Software\Task Software\bin\Debug\Task Software.exe.config
+E:\private\Task Software\Task Software\bin\Debug\Task Software.exe
+E:\private\Task Software\Task Software\bin\Debug\Task Software.pdb
+E:\private\Task Software\Task Software\bin\Debug\MahApps.Metro.dll
+E:\private\Task Software\Task Software\bin\Debug\MetroFramework.Design.dll
+E:\private\Task Software\Task Software\bin\Debug\MetroFramework.dll
+E:\private\Task Software\Task Software\bin\Debug\MetroFramework.Fonts.dll
+E:\private\Task Software\Task Software\bin\Debug\System.Windows.Interactivity.dll
+E:\private\Task Software\Task Software\bin\Debug\MahApps.Metro.xml
+E:\private\Task Software\Task Software\obj\Debug\Task Software.csprojResolveAssemblyReference.cache
+E:\private\Task Software\Task Software\obj\Debug\MainWindow.baml
+E:\private\Task Software\Task Software\obj\Debug\App.baml
+E:\private\Task Software\Task Software\obj\Debug\MainWindow.g.cs
+E:\private\Task Software\Task Software\obj\Debug\App.g.cs
+E:\private\Task Software\Task Software\obj\Debug\Task Software_MarkupCompile.cache
+E:\private\Task Software\Task Software\obj\Debug\Task Software.g.resources
+E:\private\Task Software\Task Software\obj\Debug\Task_Software.Properties.Resources.resources
+E:\private\Task Software\Task Software\obj\Debug\Task Software.csproj.GenerateResource.Cache
+E:\private\Task Software\Task Software\obj\Debug\Task Software.exe
+E:\private\Task Software\Task Software\obj\Debug\Task Software.pdb
+E:\private\Task Software\Task Software\obj\Debug\Tasklist.baml
+E:\private\Task Software\Task Software\obj\Debug\Tasklist.g.cs
+E:\private\Task Software\Task Software\obj\Debug\TaskDescription.baml
+E:\private\Task Software\Task Software\obj\Debug\TaskDescription.g.cs
+E:\private\Task Software\Task Software\obj\Debug\Signin.baml
+E:\private\Task Software\Task Software\obj\Debug\Signin.g.cs
+E:\private\Task Software\Task Software\obj\Debug\Signup.baml
+E:\private\Task Software\Task Software\obj\Debug\Signup.g.cs
+F:\Work\private\Task Software\Task Software\bin\Debug\Task Software.exe.config
+F:\Work\private\Task Software\Task Software\obj\Debug\Task Software.exe
+F:\Work\private\Task Software\Task Software\obj\Debug\Task Software.pdb
+F:\Work\private\Task Software\Task Software\obj\Debug\Task Software.csprojResolveAssemblyReference.cache
+F:\Work\private\Task Software\Task Software\obj\Debug\MainWindow.baml
+F:\Work\private\Task Software\Task Software\obj\Debug\Signin.baml
+F:\Work\private\Task Software\Task Software\obj\Debug\TaskDescription.baml
+F:\Work\private\Task Software\Task Software\obj\Debug\Tasklist.baml
+F:\Work\private\Task Software\Task Software\obj\Debug\App.baml
+F:\Work\private\Task Software\Task Software\obj\Debug\MainWindow.g.cs
+F:\Work\private\Task Software\Task Software\obj\Debug\Signin.g.cs
+F:\Work\private\Task Software\Task Software\obj\Debug\TaskDescription.g.cs
+F:\Work\private\Task Software\Task Software\obj\Debug\Tasklist.g.cs
+F:\Work\private\Task Software\Task Software\obj\Debug\App.g.cs
+F:\Work\private\Task Software\Task Software\obj\Debug\Task Software_MarkupCompile.cache
+F:\Work\private\Task Software\Task Software\obj\Debug\Task Software.g.resources
+F:\Work\private\Task Software\Task Software\obj\Debug\Task_Software.Properties.Resources.resources
+F:\Work\private\Task Software\Task Software\obj\Debug\Task Software.csproj.GenerateResource.Cache
+F:\Work\private\Task Software\Task Software\bin\Debug\Task Software.exe
+F:\Work\private\Task Software\Task Software\bin\Debug\Task Software.pdb
+F:\Work\private\Task Software\Task Software\bin\Debug\MahApps.Metro.dll
+F:\Work\private\Task Software\Task Software\bin\Debug\MetroFramework.dll
+F:\Work\private\Task Software\Task Software\bin\Debug\MetroFramework.Fonts.dll
+F:\Work\private\Task Software\Task Software\bin\Debug\System.Windows.Interactivity.dll
+F:\Work\private\Task Software\Task Software\bin\Debug\MahApps.Metro.xml
+F:\Work\private\Task Software\Task Software\bin\Debug\Caliburn.Core.dll
+F:\Work\private\Task Software\Task Software\bin\Debug\Caliburn.PresentationFramework.dll
+F:\Work\private\Task Software\Task Software\obj\Debug\TabControlStyle.baml
+F:\Work\private\Task Software\Task Software\obj\Debug\Ruf_page.g.cs
+F:\Work\private\Task Software\Task Software\obj\Debug\Task Software_MarkupCompile.lref
+F:\Work\private\Task Software\Task Software\obj\Debug\Ruf_page.baml
+C:\Users\Nidagh\Desktop\Task Software\Task Software\bin\Debug\Task Software.exe.config
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\Task Software.exe
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\Task Software.pdb
+C:\Users\Nidagh\Desktop\Task Software\Task Software\bin\Debug\Task Software.exe
+C:\Users\Nidagh\Desktop\Task Software\Task Software\bin\Debug\Task Software.pdb
+C:\Users\Nidagh\Desktop\Task Software\Task Software\bin\Debug\Caliburn.Core.dll
+C:\Users\Nidagh\Desktop\Task Software\Task Software\bin\Debug\Caliburn.PresentationFramework.dll
+C:\Users\Nidagh\Desktop\Task Software\Task Software\bin\Debug\MahApps.Metro.dll
+C:\Users\Nidagh\Desktop\Task Software\Task Software\bin\Debug\MetroFramework.dll
+C:\Users\Nidagh\Desktop\Task Software\Task Software\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nidagh\Desktop\Task Software\Task Software\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nidagh\Desktop\Task Software\Task Software\bin\Debug\MahApps.Metro.xml
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\Task Software.csprojResolveAssemblyReference.cache
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\MainWindow.baml
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\Signin.baml
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\TabControlStyle.baml
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\TaskDescription.baml
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\App.baml
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\MainWindow.g.cs
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\Signin.g.cs
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\TaskDescription.g.cs
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\App.g.cs
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\Task Software_MarkupCompile.cache
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\Task Software.g.resources
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\Task_Software.Properties.Resources.resources
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\Task Software.csproj.GenerateResource.Cache
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\NewTask.baml
+C:\Users\Nidagh\Desktop\Task Software\Task Software\obj\Debug\NewTask.g.cs
+C:\Users\Nidagh\Desktop\Task Software\Task Software\bin\Debug\MahApps.Metro.pdb
+F:\sdp\final\Task Software\Task Software\bin\Debug\Task Software.exe.config
+F:\sdp\final\Task Software\Task Software\obj\Debug\Task Software.exe
+F:\sdp\final\Task Software\Task Software\obj\Debug\Task Software.pdb
+F:\sdp\final\Task Software\Task Software\bin\Debug\Task Software.exe
+F:\sdp\final\Task Software\Task Software\bin\Debug\Task Software.pdb
+F:\sdp\final\Task Software\Task Software\bin\Debug\Caliburn.Core.dll
+F:\sdp\final\Task Software\Task Software\bin\Debug\Caliburn.PresentationFramework.dll
+F:\sdp\final\Task Software\Task Software\bin\Debug\MahApps.Metro.dll
+F:\sdp\final\Task Software\Task Software\bin\Debug\MetroFramework.dll
+F:\sdp\final\Task Software\Task Software\bin\Debug\MetroFramework.Fonts.dll
+F:\sdp\final\Task Software\Task Software\bin\Debug\System.Windows.Interactivity.dll
+F:\sdp\final\Task Software\Task Software\bin\Debug\MahApps.Metro.pdb
+F:\sdp\final\Task Software\Task Software\bin\Debug\MahApps.Metro.xml
+F:\sdp\final\Task Software\Task Software\obj\Debug\Task Software.csprojResolveAssemblyReference.cache
+F:\sdp\final\Task Software\Task Software\obj\Debug\MainWindow.baml
+F:\sdp\final\Task Software\Task Software\obj\Debug\Signin.baml
+F:\sdp\final\Task Software\Task Software\obj\Debug\TabControlStyle.baml
+F:\sdp\final\Task Software\Task Software\obj\Debug\TaskDescription.baml
+F:\sdp\final\Task Software\Task Software\obj\Debug\NewTask.baml
+F:\sdp\final\Task Software\Task Software\obj\Debug\App.baml
+F:\sdp\final\Task Software\Task Software\obj\Debug\MainWindow.g.cs
+F:\sdp\final\Task Software\Task Software\obj\Debug\Signin.g.cs
+F:\sdp\final\Task Software\Task Software\obj\Debug\TaskDescription.g.cs
+F:\sdp\final\Task Software\Task Software\obj\Debug\NewTask.g.cs
+F:\sdp\final\Task Software\Task Software\obj\Debug\App.g.cs
+F:\sdp\final\Task Software\Task Software\obj\Debug\Task Software_MarkupCompile.cache
+F:\sdp\final\Task Software\Task Software\obj\Debug\Task Software.g.resources
+F:\sdp\final\Task Software\Task Software\obj\Debug\Task_Software.Properties.Resources.resources
+F:\sdp\final\Task Software\Task Software\obj\Debug\Task Software.csproj.GenerateResource.Cache
+F:\sdp\final\Task Software\Task Software\obj\Debug\SampleWindow.baml
+F:\sdp\final\Task Software\Task Software\obj\Debug\SampleWindow.g.cs
+F:\sdp\final\Task Software\Task Software\obj\Debug\Task Software_MarkupCompile.lref
+F:\sdp\final\Task Software\Task Software\obj\Debug\CustomStyles.baml
+F:\sdp\final\Task Software\Task Software\obj\Debug\Combostyle.baml
+F:\sdp\final\Task Software\Task Software\obj\Debug\ButtonStyles.baml
+F:\sdp\final\Task Software\Task Software\obj\Debug\MenuStyle.baml
+E:\sdp\final\Task Software\Task Software\bin\Debug\Task Software.exe.config
+E:\sdp\final\Task Software\Task Software\obj\Debug\Task Software.exe
+E:\sdp\final\Task Software\Task Software\obj\Debug\Task Software.pdb
+E:\sdp\final\Task Software\Task Software\bin\Debug\Task Software.exe
+E:\sdp\final\Task Software\Task Software\bin\Debug\Task Software.pdb
+E:\sdp\final\Task Software\Task Software\bin\Debug\Caliburn.Core.dll
+E:\sdp\final\Task Software\Task Software\bin\Debug\Caliburn.PresentationFramework.dll
+E:\sdp\final\Task Software\Task Software\bin\Debug\MahApps.Metro.dll
+E:\sdp\final\Task Software\Task Software\bin\Debug\MetroFramework.dll
+E:\sdp\final\Task Software\Task Software\bin\Debug\MetroFramework.Fonts.dll
+E:\sdp\final\Task Software\Task Software\bin\Debug\System.Windows.Interactivity.dll
+E:\sdp\final\Task Software\Task Software\bin\Debug\MahApps.Metro.pdb
+E:\sdp\final\Task Software\Task Software\bin\Debug\MahApps.Metro.xml
+E:\sdp\final\Task Software\Task Software\obj\Debug\Task Software.csprojResolveAssemblyReference.cache
+E:\sdp\final\Task Software\Task Software\obj\Debug\MainWindow.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\Resources\Icons.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\Signin.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\SampleWindow.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\TaskDescription.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\NewTask.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\App.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\MainWindow.g.cs
+E:\sdp\final\Task Software\Task Software\obj\Debug\Resources\Icons.g.cs
+E:\sdp\final\Task Software\Task Software\obj\Debug\Signin.g.cs
+E:\sdp\final\Task Software\Task Software\obj\Debug\SampleWindow.g.cs
+E:\sdp\final\Task Software\Task Software\obj\Debug\TaskDescription.g.cs
+E:\sdp\final\Task Software\Task Software\obj\Debug\NewTask.g.cs
+E:\sdp\final\Task Software\Task Software\obj\Debug\App.g.cs
+E:\sdp\final\Task Software\Task Software\obj\Debug\Task Software_MarkupCompile.cache
+E:\sdp\final\Task Software\Task Software\obj\Debug\Task Software_MarkupCompile.lref
+E:\sdp\final\Task Software\Task Software\obj\Debug\Task Software.g.resources
+E:\sdp\final\Task Software\Task Software\obj\Debug\Task_Software.Properties.Resources.resources
+E:\sdp\final\Task Software\Task Software\obj\Debug\Task Software.csproj.GenerateResource.Cache
+E:\sdp\final\Task Software\Task Software\bin\Debug\MetroWPF.dll
+E:\sdp\final\Task Software\Task Software\obj\Debug\ViewMember.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\ViewMember.g.cs
+E:\sdp\final\Task Software\Task Software\obj\Debug\CustomStyle\CustomStyles.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\CustomStyle\TabControlStyle.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\CustomStyle\ButtonStyles.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\CustomStyle\Combostyle.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\CustomStyle\MenuStyle.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\CustomStyle\CloseButton.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\AddMember.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\AddMember.g.cs
+E:\sdp\final\Task Software\Task Software\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\sdp\final\Task Software\Task Software\obj\Debug\Memberinfo.baml
+E:\sdp\final\Task Software\Task Software\obj\Debug\Memberinfo.g.cs

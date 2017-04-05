@@ -1,0 +1,66 @@
+D:\Task Software\ENTITY\bin\Debug\ENTITY.dll
+D:\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+D:\Task Software\ENTITY\obj\Debug\ENTITY.dll
+D:\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+D:\Task Software\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\ENTITY\bin\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\ENTITY\bin\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\ENTITY\bin\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\Nidagh\Desktop\Task Software\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\Nidagh\Desktop\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\Nidagh\Desktop\Task Software\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\Nidagh\Desktop\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+E:\Task Software\ENTITY\bin\Debug\ENTITY.dll
+E:\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+E:\Task Software\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\Task Software\ENTITY\obj\Debug\ENTITY.dll
+E:\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+E:\sf\Task Software\ENTITY\bin\Debug\ENTITY.dll
+E:\sf\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+E:\sf\Task Software\ENTITY\obj\Debug\ENTITY.dll
+E:\sf\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\Nabid\Desktop\New folder\Task Software\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\Nabid\Desktop\New folder\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\Nabid\Desktop\New folder\Task Software\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+C:\Users\Nabid\Desktop\New folder\Task Software\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\Nabid\Desktop\New folder\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\NIDAGH\Desktop\final\Task Software\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\NIDAGH\Desktop\final\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\NIDAGH\Desktop\final\Task Software\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+C:\Users\NIDAGH\Desktop\final\Task Software\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\NIDAGH\Desktop\final\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+F:\my desk\asdsad\final\Task Software\ENTITY\bin\Debug\ENTITY.dll
+F:\my desk\asdsad\final\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+F:\my desk\asdsad\final\Task Software\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+F:\my desk\asdsad\final\Task Software\ENTITY\obj\Debug\ENTITY.dll
+F:\my desk\asdsad\final\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+C:\Users\Nabid\Desktop\New folder (9)\Task Software\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\Nabid\Desktop\New folder (9)\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\Nabid\Desktop\New folder (9)\Task Software\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\Nabid\Desktop\New folder (9)\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\ENTITY\bin\Debug\ENTITY.dll
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\ENTITY\bin\Debug\ENTITY.pdb
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.dll
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.pdb
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache

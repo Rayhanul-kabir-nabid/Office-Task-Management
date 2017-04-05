@@ -1,0 +1,84 @@
+﻿<UserControl x:Class="Task_Software.SideControl.Home"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             Height="190" Width="474" Background="{x:Null}"  FontFamily="Segoe UI Light" HorizontalAlignment="Left" >
+    <Border  BorderThickness="0">
+        <Grid x:Name="biggrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Border HorizontalAlignment="Left">
+                <Grid Width="200">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="30"/>
+                        <ColumnDefinition Width="30"/>
+                    </Grid.ColumnDefinitions>
+
+
+                    <Border BorderThickness="0" Grid.Column="2">
+                        <Button x:Name="close_button" Style="{StaticResource CloseButtonA}" Content="r"  FontFamily="Webdings" FontSize="14" Foreground="White"  Background="#FF00AEEE" BorderThickness="0" BorderBrush="{x:Null}"/>
+
+                    </Border>
+                    <Border BorderThickness="0" Grid.Column="1">
+                        <Button x:Name="min_button"  Content="0"  FontFamily="Webdings" FontSize="14" Foreground="White" Padding="1" Style="{DynamicResource Minibutton}" Background="#FF00AEEE" BorderBrush="{x:Null}"/>
+
+                    </Border>
+                    <Border x:Name="bar_border"  BorderThickness="0"  Background="#FF00AEEE">
+                        <Label Content="Task Manager" Foreground="White"/>
+                    </Border>
+                </Grid>
+            </Border>
+            <Border Background="#FF2D2D30" Grid.Row="2" BorderBrush="#FF00AEEE" BorderThickness="1" Margin="12,-1,0,0">
+                <StackPanel x:Name="Mainstackpanel"  Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+
+
+
+
+
+                </StackPanel>
+            </Border>
+            <Grid  Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0" Margin="6,0,0,0" HorizontalAlignment="Left" Width="200" Background="#FF047199" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="3" >
+                    <Border.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleX="31"/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Border.RenderTransform>
+
+                </Border>
+                <Border Background="#FF047199" Grid.ColumnSpan="2" Margin="98,5,70,0" Visibility="Hidden"/>
+                <Border Background="#FF047199" Margin="54,10,0,0" Grid.Column="1" Visibility="Hidden"/>
+                <Border Background="#FF047199" Margin="124,15,88,0" Grid.Column="1" Grid.ColumnSpan="2" Visibility="Hidden"/>
+
+                <Border Grid.Column="2" Background="#FF047199" Margin="-80,0,140,0" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+                    <Border.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleX="85.8"/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Border.RenderTransform>
+
+                </Border>
+            </Grid>
+
+
+        </Grid>
+    </Border>
+</UserControl>

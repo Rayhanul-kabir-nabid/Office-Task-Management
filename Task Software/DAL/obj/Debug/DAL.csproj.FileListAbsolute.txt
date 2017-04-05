@@ -1,0 +1,125 @@
+D:\Task Software\DAL\bin\Debug\DAL.dll
+D:\Task Software\DAL\bin\Debug\DAL.pdb
+D:\Task Software\DAL\bin\Debug\ENTITY.dll
+D:\Task Software\DAL\bin\Debug\ENTITY.pdb
+D:\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Task Software\DAL\obj\Debug\DAL.dll
+D:\Task Software\DAL\obj\Debug\DAL.pdb
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\DAL\bin\Debug\DAL.dll
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\DAL\bin\Debug\DAL.pdb
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.pdb
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\DAL\obj\Debug\DAL.dll
+E:\Code\C# practice\SDP\New folder\New folder\Task Software\DAL\obj\Debug\DAL.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\Task Software\DAL\bin\Debug\DAL.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\Task Software\DAL\bin\Debug\DAL.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\SDP\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\DAL.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\DAL.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\DAL.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\DAL.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\MySql.Data.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.pdb
+C:\Users\Nidagh\Desktop\Task Software\DAL\bin\Debug\DAL.dll
+C:\Users\Nidagh\Desktop\Task Software\DAL\bin\Debug\DAL.pdb
+C:\Users\Nidagh\Desktop\Task Software\DAL\bin\Debug\ENTITY.dll
+C:\Users\Nidagh\Desktop\Task Software\DAL\bin\Debug\ENTITY.pdb
+C:\Users\Nidagh\Desktop\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nidagh\Desktop\Task Software\DAL\obj\Debug\DAL.dll
+C:\Users\Nidagh\Desktop\Task Software\DAL\obj\Debug\DAL.pdb
+E:\Task Software\DAL\bin\Debug\DAL.dll
+E:\Task Software\DAL\bin\Debug\DAL.pdb
+E:\Task Software\DAL\bin\Debug\ENTITY.dll
+E:\Task Software\DAL\bin\Debug\ENTITY.pdb
+E:\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Task Software\DAL\obj\Debug\DAL.dll
+E:\Task Software\DAL\obj\Debug\DAL.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\DAL.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\DAL.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\MySql.Data.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.pdb
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.dll
+E:\Code\C# practice\SDP\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\New folder\Task Software\DAL\obj\Debug\DAL.pdb
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\DAL\bin\Debug\DAL.dll
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\DAL\bin\Debug\DAL.pdb
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\DAL\bin\Debug\ENTITY.dll
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\DAL\bin\Debug\ENTITY.pdb
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\DAL\obj\Debug\DAL.dll
+C:\Users\Nidagh\Desktop\New folder (2)\Task Software\DAL\obj\Debug\DAL.pdb
+E:\Code\C# practice\SDP\Final\New folder\Task Software\DAL\bin\Debug\DAL.dll
+E:\Code\C# practice\SDP\Final\New folder\Task Software\DAL\bin\Debug\DAL.pdb
+E:\Code\C# practice\SDP\Final\New folder\Task Software\DAL\bin\Debug\ENTITY.dll
+E:\Code\C# practice\SDP\Final\New folder\Task Software\DAL\bin\Debug\ENTITY.pdb
+E:\Code\C# practice\SDP\Final\New folder\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\SDP\Final\New folder\Task Software\DAL\obj\Debug\DAL.dll
+E:\Code\C# practice\SDP\Final\New folder\Task Software\DAL\obj\Debug\DAL.pdb
+E:\sf\Task Software\DAL\bin\Debug\DAL.dll
+E:\sf\Task Software\DAL\bin\Debug\DAL.pdb
+E:\sf\Task Software\DAL\bin\Debug\ENTITY.dll
+E:\sf\Task Software\DAL\bin\Debug\ENTITY.pdb
+E:\sf\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\sf\Task Software\DAL\obj\Debug\DAL.dll
+E:\sf\Task Software\DAL\obj\Debug\DAL.pdb
+C:\Users\NIDAGH\Desktop\Task Software\DAL\bin\Debug\MySql.Data.dll
+C:\Users\Nabid\Desktop\New folder\Task Software\DAL\bin\Debug\DAL.dll
+C:\Users\Nabid\Desktop\New folder\Task Software\DAL\bin\Debug\DAL.pdb
+C:\Users\Nabid\Desktop\New folder\Task Software\DAL\bin\Debug\ENTITY.dll
+C:\Users\Nabid\Desktop\New folder\Task Software\DAL\bin\Debug\ENTITY.pdb
+C:\Users\Nabid\Desktop\New folder\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nabid\Desktop\New folder\Task Software\DAL\obj\Debug\DAL.dll
+C:\Users\Nabid\Desktop\New folder\Task Software\DAL\obj\Debug\DAL.pdb
+C:\Users\NIDAGH\Desktop\final\Task Software\DAL\bin\Debug\DAL.dll
+C:\Users\NIDAGH\Desktop\final\Task Software\DAL\bin\Debug\DAL.pdb
+C:\Users\NIDAGH\Desktop\final\Task Software\DAL\bin\Debug\ENTITY.dll
+C:\Users\NIDAGH\Desktop\final\Task Software\DAL\bin\Debug\MySql.Data.dll
+C:\Users\NIDAGH\Desktop\final\Task Software\DAL\bin\Debug\ENTITY.pdb
+C:\Users\NIDAGH\Desktop\final\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NIDAGH\Desktop\final\Task Software\DAL\obj\Debug\DAL.dll
+C:\Users\NIDAGH\Desktop\final\Task Software\DAL\obj\Debug\DAL.pdb
+F:\my desk\asdsad\final\Task Software\DAL\bin\Debug\DAL.dll
+F:\my desk\asdsad\final\Task Software\DAL\bin\Debug\DAL.pdb
+F:\my desk\asdsad\final\Task Software\DAL\bin\Debug\ENTITY.dll
+F:\my desk\asdsad\final\Task Software\DAL\bin\Debug\ENTITY.pdb
+F:\my desk\asdsad\final\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\my desk\asdsad\final\Task Software\DAL\obj\Debug\DAL.dll
+F:\my desk\asdsad\final\Task Software\DAL\obj\Debug\DAL.pdb
+F:\my desk\asdsad\final\Task Software\DAL\bin\Debug\MySql.Data.dll
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\DAL\bin\Debug\DAL.dll
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\DAL\bin\Debug\DAL.pdb
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\DAL\bin\Debug\ENTITY.dll
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\DAL\bin\Debug\MySql.Data.dll
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\DAL\bin\Debug\ENTITY.pdb
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\DAL\obj\Debug\DAL.dll
+C:\Users\Nidagh\Desktop\Task ffffff\Task Software\DAL\obj\Debug\DAL.pdb
+C:\Users\Nabid\Desktop\New folder (9)\Task Software\DAL\bin\Debug\DAL.dll
+C:\Users\Nabid\Desktop\New folder (9)\Task Software\DAL\bin\Debug\DAL.pdb
+C:\Users\Nabid\Desktop\New folder (9)\Task Software\DAL\bin\Debug\ENTITY.dll
+C:\Users\Nabid\Desktop\New folder (9)\Task Software\DAL\bin\Debug\ENTITY.pdb
+C:\Users\Nabid\Desktop\New folder (9)\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nabid\Desktop\New folder (9)\Task Software\DAL\obj\Debug\DAL.dll
+C:\Users\Nabid\Desktop\New folder (9)\Task Software\DAL\obj\Debug\DAL.pdb
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\DAL\bin\Debug\DAL.dll
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\DAL\bin\Debug\DAL.pdb
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.dll
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\DAL\bin\Debug\ENTITY.pdb
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\DAL\obj\Debug\DAL.dll
+E:\Code\C# practice\sdp final\New folder\New folder\Task Software\DAL\obj\Debug\DAL.pdb

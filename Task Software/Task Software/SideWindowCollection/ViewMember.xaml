@@ -1,0 +1,46 @@
+﻿<Controls:MetroWindow x:Class="Task_Software.ViewMember"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+                      Title="Member List"
+                      Width="250"
+                      Height="400" ResizeMode="NoResize" ShowInTaskbar="False" IsCloseButtonEnabled="False" IsMaxRestoreButtonEnabled="False" IsMinButtonEnabled="False" IsWindowDraggable="False" ShowActivated="False" ShowCloseButton="False" ShowIconOnTitleBar="False" ShowMaxRestoreButton="False" ShowMinButton="False" ShowSystemMenuOnRightClick="False" ShowTitleBar="False" NonActiveBorderBrush="{x:Null}" NonActiveGlowBrush="{x:Null}" NonActiveWindowTitleBrush="{x:Null}" WindowTitleBrush="{x:Null}" LocationChanged="MetroWindow_LocationChanged" Closed="MetroWindow_Closed"
+                      >
+    <Controls:MetroWindow.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF2D2D30" Offset="0"/>
+            <GradientStop Color="#FF515151" Offset="1"/>
+        </LinearGradientBrush>
+    </Controls:MetroWindow.Background>
+    <Border  BorderThickness="0">
+        <Grid Margin="0,2,0,-2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="10"/>
+            </Grid.RowDefinitions>
+            <Border  BorderThickness="0" Background="#FF2C3E50" >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="30"/>
+                    </Grid.ColumnDefinitions>
+                        
+                    <Border  BorderThickness="0" Grid.Column="0">
+                        <Label Content="Members list" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                    </Border>
+                    <Button x:Name="cloasebutton" Grid.Column="1" Content="r" Style="{DynamicResource CloseButtonA}" Margin="0" BorderThickness="0" Foreground="White" Click="cloasebutton_Click"/>
+
+                </Grid>
+
+            </Border>
+            <Border BorderThickness="0" Grid.Row="1">
+
+                <ListBox x:Name="memberlistbox" MouseDoubleClick="mousedown" SelectionChanged="memberlistbox_SelectionChanged"/>
+            </Border>
+        </Grid>
+    </Border>
+
+</Controls:MetroWindow>

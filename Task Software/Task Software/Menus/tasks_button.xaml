@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="Task_Software.Menus.tasks_button"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" >
+    <Button x:Name="taskbutton" Margin="10,0,10,0" Content="Tasks"  Width="50" Height="60" Style="{StaticResource HyprButton}" FontSize="9"  FontFamily="Segoe UI Light" >
+        <Button.Background>
+            <ImageBrush ImageSource="../img/Junior_Icon_33_2.png" Stretch="Uniform" />
+        </Button.Background>
+    </Button>
+
+</UserControl>

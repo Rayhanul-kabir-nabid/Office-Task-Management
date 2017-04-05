@@ -1,0 +1,48 @@
+﻿<Window x:Class="Task_Software.SideWindowCollection.EditDescription"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_Software.SideWindowCollection"
+        mc:Ignorable="d"
+        Title="EditDate" Height="120" Width="300" WindowStyle="None" AllowsTransparency="True" Background="{x:Null}" Closed="Window_Closed" ShowInTaskbar="False" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="70"/>
+        </Grid.ColumnDefinitions>
+        <Border VerticalAlignment="Top"
+                >
+            <Grid x:Name="draggrid" Height="30" Background="#FF17A0FF" Margin="0,0,0,0" MouseDown="draggrid_MouseDown">
+                <Image x:Name="image" Source="/Task Manager;component/mmmm.png" OpacityMask="White" />
+            </Grid>
+        </Border>
+        <StackPanel Grid.Column="2">
+            <Button x:Name="savebutton"
+                Content="Save"
+                Padding="0,10"
+                FontSize="14"
+                
+                Style="{StaticResource Bluebutton}" Click="savebutton_Click" 
+                    Margin="0,0,0,42"
+                />
+            <Button x:Name="canclebutton"
+                Content="Cancle"
+                Padding="0,10"
+                FontSize="14"
+                Style="{StaticResource CloseButtonA}" Click="canclebutton_Click"
+                />
+        </StackPanel>
+        <Border
+            BorderBrush="#FF1B6480"
+            BorderThickness="2"
+            
+            Background="#FF2D2D30" Grid.Column="1">
+            <TextBox 
+                x:Name="destextBox" 
+                TextWrapping="Wrap"/>
+        </Border>
+        
+    </Grid>
+</Window>

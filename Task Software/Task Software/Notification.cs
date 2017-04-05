@@ -1,0 +1,45 @@
+﻿using System.Collections.ObjectModel;
+using System.ComponentModel;
+
+namespace Task_Software
+{
+    public class Notification : INotifyPropertyChanged
+    {
+        private string message;
+        public string Message
+        {
+            get { return message; }
+
+            set
+            {
+                if (message == value) return;
+                message = value;
+                OnPropertyChanged("Message");
+            }
+        }
+
+        private int id;
+        public int Id
+        {
+            get { return id; }
+
+            set
+            {
+                if (id == value) return;
+                id = value;
+                OnPropertyChanged("Id");
+            }
+        }
+
+       
+        protected virtual void OnPropertyChanged(string propertyName)
+        {
+            var handler = PropertyChanged;
+            if (handler != null) handler(this, new PropertyChangedEventArgs(propertyName));
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+    }
+
+    public class Notifications : ObservableCollection<Notification> { }
+}

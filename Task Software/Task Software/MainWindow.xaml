@@ -1,0 +1,14 @@
+﻿<Window x:Class="Task_Software.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="MainWindow" Height="700" Width="1000" AllowsTransparency="True" WindowStyle="None" Background="Transparent" Closed="Window_Closed" Icon="Icon.ico">
+    <StackPanel  HorizontalAlignment="Left">
+        <MediaElement x:Name="mediaElement_new" Height="0" Width="0" Source="solemn.mp3" LoadedBehavior="Manual"/>
+        <StackPanel x:Name="BigStackpanel" HorizontalAlignment="Left">
+
+        </StackPanel>
+        
+    </StackPanel>
+</Window>

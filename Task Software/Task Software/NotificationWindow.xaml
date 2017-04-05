@@ -1,0 +1,41 @@
+﻿<Window x:Class="Task_Software.NotificationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  Title="Notification Popup" Width="300" SizeToContent="Height"
+  WindowStyle="None" AllowsTransparency="True" Background="Transparent"  >
+
+    <Grid RenderTransformOrigin="0,1" >
+
+        <!-- Notification area -->
+        <Border BorderThickness="1" Background="#FF2A3345" >
+            <StackPanel Margin="20">
+                <TextBlock x:Name="notifybox" TextWrapping="Wrap" Margin="5" Foreground="White" FontSize="14">
+                </TextBlock>
+            </StackPanel>
+        </Border>
+
+        <!-- Animation -->
+        <Grid.Triggers>
+            <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+                <BeginStoryboard>
+                    <Storyboard>
+                        <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)">
+                            <SplineDoubleKeyFrame KeyTime="0:0:0" Value="0"/>
+                            <SplineDoubleKeyFrame KeyTime="0:0:.5" Value="1"/>
+                        </DoubleAnimationUsingKeyFrames>
+                        <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)">
+                            <SplineDoubleKeyFrame KeyTime="0:0:3" Value="1"/>
+                            <SplineDoubleKeyFrame KeyTime="0:0:5" Value="0"/>
+                        </DoubleAnimationUsingKeyFrames>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+        </Grid.Triggers>
+
+        <Grid.RenderTransform>
+            <ScaleTransform ScaleY="1" />
+        </Grid.RenderTransform>
+
+    </Grid>
+
+</Window>

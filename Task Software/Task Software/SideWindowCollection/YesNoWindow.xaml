@@ -1,0 +1,71 @@
+﻿<Window x:Class="Task_Software.SideWindowCollection.YesNoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_Software.SideWindowCollection"
+        mc:Ignorable="d"
+        Title="EditDate" Height="200" Width="300" WindowStyle="None" AllowsTransparency="True" Background="{x:Null}" ShowInTaskbar="False" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="70"/>
+        </Grid.ColumnDefinitions>
+        <Border HorizontalAlignment="Center"
+                Grid.Column="1"
+                VerticalAlignment="Bottom"
+                >
+            <Grid x:Name="draggrid" Height="34" Background="#FF17A0FF" Margin="0,0,0,0" MouseDown="draggrid_MouseDown">
+                <Image x:Name="image" Source="/Task Manager;component/mmmm.png" OpacityMask="White" />
+            </Grid>
+        </Border>
+        
+        <Border VerticalAlignment="Top"
+                Grid.Row="1"
+                >
+            <Button x:Name="canclebutton"
+                Content="No"
+                Padding="0,10"
+                FontSize="14"
+                Style="{StaticResource CloseButtonA}" Click="canclebutton_Click"
+                />
+        </Border>
+        <Border Grid.Column="2"
+                Grid.Row="1"
+                VerticalAlignment="Top">
+            <Button x:Name="savebutton"
+                Content="Yes"
+                Padding="0,10"
+                FontSize="14"
+                
+                Style="{StaticResource Bluebutton}" Click="yesbutton_Click" 
+                    
+                />
+            
+        </Border>
+        <Border
+            BorderBrush="#FF1B6480"
+            BorderThickness="2"
+            Grid.Row="1"
+            VerticalAlignment="Top"
+            Background="#FF2D2D30" Grid.Column="1">
+            
+                <TextBlock x:Name="showcausetextblock" Foreground="White"
+                    TextWrapping="Wrap"
+                           Margin="10"
+                    />
+            
+            
+
+        </Border>
+        <Border x:Name="plzwaitview"
+             Grid.Column="1">
+            
+        </Border>
+    </Grid>
+</Window>
